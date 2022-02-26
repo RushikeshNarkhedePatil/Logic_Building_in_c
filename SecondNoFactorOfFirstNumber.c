@@ -14,6 +14,7 @@
 
 typedef int BOOL;
 
+
 BOOL CheckFactor(int No1,int No2)
 {
     if((No1%No2)==0)
