@@ -1,12 +1,17 @@
 # Logic_Building_in_c
 C Programming Repository
 
-#…or create a new repository on the command line
-
-echo "# Logic_Building_in_c" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c.git
-git push -u origin main
+| Program Name             | Link Of Source Code                                                                   |
+| ----------------- | ------------------------------------------------------------------ |
+1.MaximumOfTwoNumber   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/MaximumOfTwoNumber.c
+2.DivisibleBy3OrNot   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DivisibleBy3OrNot.c
+3.DivideTwoNumber   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DivideTwoNumber.c
+4.PrintName5Time   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/PrintName5Time.c
+5.Print5To1   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Print5To1.c
+6.Print $ OnScreen   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/PrintOnScreen.c
+7.AcceptOneCharacterAndNumber   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/AcceptOneCharacterAndNumber.c
+8.NumberLessThan10   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/NumberLessThan10.c
+9.EvenOrOdd   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/EvenOrOdd.c
+10.LargestNumber   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/LargestNumber.c
+11.SecondNoFactorOfFirstNumber   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Factor.c
+12.   |hello
