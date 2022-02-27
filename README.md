@@ -14,12 +14,13 @@ C Programming Repository
 9.EvenOrOdd   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/EvenOrOdd.c
 10.LargestNumber   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/LargestNumber.c
 11.SecondNoFactorOfFirstNumber   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Factor.c
-12.FactorsOfNumber   |
-13.NumberOfEvenNumber|
-14.EvenFactor        |
-15.ConvertCaseOfCharacter|
-16.CheckVowelOrNot   |
-17.b
-18.c
-19.d
-20.e
+12.FactorsOfNumber   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/FactorsOfNumber.c
+13.NumberOfEvenNumber|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/NumberOfEvenNumber.c
+14.EvenFactor        |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/EvenFactor.c
+15.ConvertCaseOfCharacter|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ConvertCaseOfCharacter.c
+16.CheckVowelOrNot   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CheckvowelOrNot.c
+17.SumOfFactor       |
+18.FactorReverceOrder|
+19.ReturnLargestFactor|
+20.PerfectOrNot       |
+21.MultiPlicationOfFactor|
