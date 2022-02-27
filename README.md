@@ -19,8 +19,11 @@ C Programming Repository
 14.EvenFactor        |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/EvenFactor.c
 15.ConvertCaseOfCharacter|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ConvertCaseOfCharacter.c
 16.CheckVowelOrNot   |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CheckvowelOrNot.c
-17.SumOfFactor       |
-18.FactorReverceOrder|
-19.ReturnLargestFactor|
-20.PerfectOrNot       |
-21.MultiPlicationOfFactor|
+17.SumOfFactor       |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/SumOfFactor.c
+18.FactorReverceOrder|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/FactorReverceOrder.c
+19.ReturnLargestFactor|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReturnLargestFactor.c
+20.PerfectOrNot       |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/PrimeOrNot.c
+21.MultiPlicationOfFactor|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/MultiPlicationOfFactor.c
+22.DisplayReversNumber|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DisplayReversNumber.c
+23.PrimeOrNot         |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/PrimeOrNot.c
+24.PowerOperation     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/PowerOperation.c
