@@ -27,3 +27,10 @@ C Programming Repository
 22.DisplayReversNumber|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DisplayReversNumber.c
 23.PrimeOrNot         |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/PrimeOrNot.c
 24.PowerOperation     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/PowerOperation.c
+
+# Problems On Digit
+| Program Name             | Link Of Source Code                                                                   |
+| ----------------- | ------------------------------------------------------------------ |
+|a               |
+|c              |
+
