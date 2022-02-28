@@ -1,10 +1,10 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//  Name Of Program:-  CountNoOfDigit
+//  Name Of Program:-  SumOfDigit
 //  Input:-            571      |7 
-//  Output:-           3        |1
+//  Output:-           13        |7
 //  Input:-            25       |-255
-//  Output:-           2        |3
-//  Discription:-      Accept Number From user and count number of digit of that number.
+//  Output:-           7        |12
+//  Discription:-      Accept Number From user and return the Sumession of digit of that number.
 //  Author:-           Rushikesh Dilip Narkhede
 //  Actual Date To Write Code:- 18/9/2019
 //  Modification Of Code Date:- 28/2/2022
@@ -12,34 +12,30 @@
 
 #include<stdio.h>
 
-int CountDigit(int No)
+int DigitSum(int No)
 {
-    int Count=0;
+    int iDigit=0,Sum=0;
 
-    if(No==0)
-    {
-        return 1;
-    }
     if(No<0)
     {
         No=-No;
     }
 
-    while (No!=0)
+    while(No!=0)
     {
-        Count++;
+        iDigit=No%10;
+        Sum=Sum+iDigit;
         No=No/10;
     }
-    return Count;
-    
+    return Sum;
+
 }
 int main()
 {
-    int iValue=0;
-    int iRet=0;
-    printf("Enter Number\n");
+    int iValue=0,iRet=0;
+    printf("Enter Number \n");
     scanf("%d",&iValue);
-    iRet=CountDigit(iValue);
-    printf("Number of Count is %d",iRet);
+    iRet=DigitSum(iValue);
+    printf("The Sumession of digit is : %d",iRet);
     return 0;
 }

@@ -31,6 +31,14 @@ C Programming Repository
 # Problems On Digit
 | Program Name             | Link Of Source Code                                                                   |
 | ----------------- | ------------------------------------------------------------------ |
-|a               |
-|c              |
+|25.CountNoOfDigit           |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CountNoOfDigit.c
+|26.SumOfDigit            |
+|27.SumOfDigitGreterThan5.c|
+|28.ReverseDigit           |
+|29.DigitContainZeroOrNot  |
+|30.CountNoOfTwoInDigit    |
+|31.CountDigitLessThan6    |
+|32.CountDivisibleBy3      |
+|33.ReturnMultiplicationOfDigit|
+|34.FrequencyCountEvenOdd      |
 
