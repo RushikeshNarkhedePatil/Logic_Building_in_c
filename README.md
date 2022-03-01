@@ -32,13 +32,26 @@ C Programming Repository
 | Program Name             | Link Of Source Code                                                                   |
 | ----------------- | ------------------------------------------------------------------ |
 |25.CountNoOfDigit           |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CountNoOfDigit.c
-|26.SumOfDigit            |
-|27.SumOfDigitGreterThan5.c|
-|28.ReverseDigit           |
-|29.DigitContainZeroOrNot  |
-|30.CountNoOfTwoInDigit    |
-|31.CountDigitLessThan6    |
-|32.CountDivisibleBy3      |
-|33.ReturnMultiplicationOfDigit|
-|34.FrequencyCountEvenOdd      |
+|26.SumOfDigit            |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/SumOfDigit.c
+|27.SumOfDigitGreterThan5.c|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/SumOfDigitGreterThan5.c
+|28.ReverseDigit           |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DigitReverseOrder.c
+|29.DigitContainZeroOrNot  |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DigitContainZeroOrNot.c
+|30.CountNoOfTwoInDigit    |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CountNoOfTwoInDigit.c
+|31.CountDigitLessThan6    |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CountDigitLessThan6.c
+|32.CountDivisibleBy3      |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CountDivisibleBy3.c
+|33.ReturnMultiplicationOfDigit|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReturnMultiplicationOfDigit.c
+|34.FrequencyCountEvenOdd      |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/FrequencyEvenOdd.c
+|35.BalanceNoOrNot             |
+|36.BalanceNoOrNot1            |
+|37.DigitFiveOrNot             |
+|38.CountOfEvenDigit           |
+|39.CountOddDigit              |
+|40.CountDigitRange            |
+|41.DifferenceEvenOdd          |
+|42.ReturnEvenDigit            |
+|43.ReverseNumber              |
+|44.ReverseEvenOdd             |
+|45.ReverseNumberBetweenRange  |
+|46.PalindromeOrNot            |
+|47.PalindromeOrNotX           |
 
