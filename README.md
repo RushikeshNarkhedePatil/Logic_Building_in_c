@@ -41,17 +41,18 @@ C Programming Repository
 |32.CountDivisibleBy3      |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CountDivisibleBy3.c
 |33.ReturnMultiplicationOfDigit|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReturnMultiplicationOfDigit.c
 |34.FrequencyCountEvenOdd      |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/FrequencyEvenOdd.c
-|35.BalanceNoOrNot             |
-|36.BalanceNoOrNot1            |
-|37.DigitFiveOrNot             |
-|38.CountOfEvenDigit           |
-|39.CountOddDigit              |
-|40.CountDigitRange            |
-|41.DifferenceEvenOdd          |
-|42.ReturnEvenDigit            |
-|43.ReverseNumber              |
-|44.ReverseEvenOdd             |
-|45.ReverseNumberBetweenRange  |
-|46.PalindromeOrNot            |
-|47.PalindromeOrNotX           |
+|35.BalanceNoOrNot             |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/BalanceNoOrNot.c
+|36.BalanceNoOrNot1            |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/BalanceNoOrNot1.c
+|37.DigitFiveOrNot             |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DigitFiveOrNot.c
+|38.CountOfEvenDigit           |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CountOfEvenDigit.c
+|39.CountOddDigit              |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CountOddDigit.c
+|40.CountDigitRange            |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CountDigitRange.c
+|41.DifferenceEvenOdd          |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DifferenceEvenOdd.c
+|42.ReturnEvenDigit            |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReturnEvenDigit.c
+|43.ReverseNumber              |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReverseNumber.c
+|44.ReverseEvenOdd             |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReverseEvenOdd.c
+|45.ReverseNumberBetweenRange  |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReverseNumberBetweenRange.c
+|46.PalindromeOrNot            |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/PalindromeOrNot.c
+|47.PalindromeOrNotX           |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/PalindromeOrNotX.c
+
 
