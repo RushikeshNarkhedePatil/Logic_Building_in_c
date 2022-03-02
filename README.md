@@ -58,18 +58,18 @@ C Programming Repository
 # Pattern printing
 | Program Name             | Link Of Source Code                                                                   |
 | ----------------- | ------------------------------------------------------------------ |
-|48.Pattern1      |
-|48.Pattern2      |
-|48.Pattern3      |
-|48.Pattern4      |
-|48.Pattern5      |
-|48.Pattern6      |
-|48.Pattern7      |
-|48.Pattern8      |
-|48.Pattern9      |
-|48.Pattern10     |
-|48.Pattern11     |
-|48.Pattern12     |
-|48.Pattern13     |
-|48.Pattern14     |
-|48.Pattern15     |
+|48.Pattern1      |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern1.c
+|49.Pattern2      |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern2.c
+|50.Pattern3      |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern3.c
+|51.Pattern4      |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern4.c
+|52.Pattern5      |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern5.c
+|53.Pattern6      |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern6.c
+|54.Pattern7      |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern7.c
+|55.Pattern8      |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern8.c
+|56.Pattern9      |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern9.c
+|57.Pattern10     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern10.c
+|58.Pattern11     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern11.c
+|59.Pattern12     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern12.c
+|60.Pattern13     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern13.c
+|61.Pattern14     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern14.c
+|62.Pattern15     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern15.c
