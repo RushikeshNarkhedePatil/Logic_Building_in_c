@@ -55,4 +55,21 @@ C Programming Repository
 |46.PalindromeOrNot            |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/PalindromeOrNot.c
 |47.PalindromeOrNotX           |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/PalindromeOrNotX.c
 
-
+# Pattern printing
+| Program Name             | Link Of Source Code                                                                   |
+| ----------------- | ------------------------------------------------------------------ |
+|48.Pattern1      |
+|48.Pattern2      |
+|48.Pattern3      |
+|48.Pattern4      |
+|48.Pattern5      |
+|48.Pattern6      |
+|48.Pattern7      |
+|48.Pattern8      |
+|48.Pattern9      |
+|48.Pattern10     |
+|48.Pattern11     |
+|48.Pattern12     |
+|48.Pattern13     |
+|48.Pattern14     |
+|48.Pattern15     |
