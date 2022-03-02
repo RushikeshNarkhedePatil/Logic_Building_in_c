@@ -73,3 +73,5 @@ C Programming Repository
 |60.Pattern13     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern13.c
 |61.Pattern14     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern14.c
 |62.Pattern15     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern15.c
+|63.Pattern16     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern16.c
+|64.Pattern17     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern17.c
