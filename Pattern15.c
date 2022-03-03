@@ -1,9 +1,9 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //  Name Of Program:-  Pattern15
 //  Input:-            iRow=3   iCol=4          
-//  Output:-           *#*#
-//                     *#*#
-//                     *#*#
+//  Output:-           *    #   *   #
+//                     *    #   *   #
+//                     *    #   *   #
 //  Discription:-      Accept Number of Rows and colom from user and Display Pattern.
 //  Author:-           Rushikesh Dilip Narkhede
 //  Actual Date To Write Code:- 25/9/2019
@@ -28,11 +28,11 @@ void Pattern1(int iRow,int iCol)
         {
             if (col%2==0)
             {
-                printf("#");
+                printf("#\t");
             }
             else
             {
-                printf("*");
+                printf("*\t");
             }
             
               

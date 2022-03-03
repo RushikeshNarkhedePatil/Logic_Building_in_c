@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //  Name Of Program:-  Pattern11
 //  Input:-            8            
-//  Output:-           246810121416
+//  Output:-           2    4   6   8   10  12  14  16
 //  Discription:-      Accept Number From user and Display Pattern.
 //  Author:-           Rushikesh Dilip Narkhede
 //  Actual Date To Write Code:- 25/9/2019
@@ -17,7 +17,7 @@ void Pattern1(int No)
     }
     for (icnt=1;icnt<=No;icnt++)  //246810121416
     {
-        printf("%d",icnt*2);        
+        printf("%d\t",icnt*2);        
     } 
 }
 int main()

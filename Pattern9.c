@@ -1,10 +1,10 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //  Name Of Program:-  Pattern9
 //  Input:-            4            
-//  Output:-           1234
-//                     1234
-//                     1234
-//                     1234
+//  Output:-           1    2   3   4
+//                     1    2   3   4
+//                     1    2   3   4
+//                     1    2   3   4
 //  Discription:-      Accept Number From user and Display Pattern.
 //  Author:-           Rushikesh Dilip Narkhede
 //  Actual Date To Write Code:- 24/9/2019
@@ -22,7 +22,7 @@ void Pattern1(int No)
     {
         for(col=1;col<=No;col++)
         {
-            printf("%d",col);
+            printf("%d\t",col);
         }
         printf("\n");
     } 

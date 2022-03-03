@@ -1,10 +1,10 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //  Name Of Program:-  Pattern13
 //  Input:-            iRow=4   iCol=3          
-//  Output:-           123
-//                     123
-//                     123
-//                     123
+//  Output:-           1    2   3
+//                     1    2   3
+//                     1    2   3
+//                     1    2   3
 //  Discription:-      Accept Number of Rows and colom from user and Display Pattern.
 //  Author:-           Rushikesh Dilip Narkhede
 //  Actual Date To Write Code:- 25/9/2019
@@ -27,7 +27,7 @@ void Pattern1(int iRow,int iCol)
     {
         for(col=1;col<=iCol;col++)
         {
-            printf("%d",col);
+            printf("%d\t",col);
         }
         printf("\n");
     } 

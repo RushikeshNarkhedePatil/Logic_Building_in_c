@@ -1,19 +1,21 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//  Name Of Program:-  Pattern12
-//  Input:-            iRow=4    iCol=3            
-//  Output:-           *    *   *
-//                     *    *   *
-//                     *    *   *
-//                     *    *   *
+//  Name Of Program:-  Pattern20
+//  Input:-            iRow=4   iCol=4          
+//  Output:-           *    *   *   *
+//                     $    $   $   $
+//                     $    $   $   $
+//                     $    $   $   $
+//                     *    *   *   *                    
 //  Discription:-      Accept Number of Rows and colom from user and Display Pattern.
 //  Author:-           Rushikesh Dilip Narkhede
 //  Actual Date To Write Code:- 25/9/2019
-//  Modification Of Code Date:- 02/3/2022
+//  Modification Of Code Date:- 03/3/2022
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #include<stdio.h>
 void Pattern1(int iRow,int iCol)           
 {
     int row=0,col=0;    //use tow counter row and col
+    int icnt=0;
     if (iRow<0)     //updator nagative rows value convert to positive
     {
         iRow=-iRow;
@@ -26,8 +28,15 @@ void Pattern1(int iRow,int iCol)
     for (row=1;row<=iRow;row++)  
     {
         for(col=1;col<=iCol;col++)
-        {
-            printf("*\n");
+        {   
+            if(row==1||row==iRow)
+            {
+                printf("*\t");
+            }
+            else
+            {
+                printf("$\t");
+            }
         }
         printf("\n");
     } 

@@ -1,10 +1,10 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//  Name Of Program:-  Pattern16
+//  Name Of Program:-  Pattern17
 //  Input:-            iRow=4   iCol=4          
-//  Output:-           1234
-//                     ****
-//                     1234
-//                     ****
+//  Output:-           1    2   3   4
+//                     *    *   *   *
+//                     1    2   3   4
+//                     *    *   *   *
 //  Discription:-      Accept Number of Rows and colom from user and Display Pattern.
 //  Author:-           Rushikesh Dilip Narkhede
 //  Actual Date To Write Code:- 25/9/2019
@@ -29,11 +29,11 @@ void Pattern1(int iRow,int iCol)
         {   
             if (row%2==0)
             {
-                printf("*");
+                printf("*\t");
             }
             else
             {
-                printf("%d",col);
+                printf("%d\t",col);
             }
             
             

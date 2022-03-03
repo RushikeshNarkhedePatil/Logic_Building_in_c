@@ -1,14 +1,14 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//  Name Of Program:-  Pattern12
-//  Input:-            iRow=4    iCol=3            
-//  Output:-           *    *   *
-//                     *    *   *
-//                     *    *   *
-//                     *    *   *
+//  Name Of Program:-  Pattern18
+//  Input:-            iRow=4   iCol=4          
+//  Output:-           *    #   *   #  
+//                     *    #   *   #
+//                     *    #   *   #
+//                     *    #   *   #
 //  Discription:-      Accept Number of Rows and colom from user and Display Pattern.
 //  Author:-           Rushikesh Dilip Narkhede
 //  Actual Date To Write Code:- 25/9/2019
-//  Modification Of Code Date:- 02/3/2022
+//  Modification Of Code Date:- 03/3/2022
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #include<stdio.h>
 void Pattern1(int iRow,int iCol)           
@@ -26,8 +26,16 @@ void Pattern1(int iRow,int iCol)
     for (row=1;row<=iRow;row++)  
     {
         for(col=1;col<=iCol;col++)
-        {
-            printf("*\n");
+        {   
+            if (col%2==0)
+            {
+                printf("#\t");
+            }
+            else
+            {
+                printf("*\t");
+            } 
+            
         }
         printf("\n");
     } 
