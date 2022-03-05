@@ -82,4 +82,21 @@ C Programming Repository
 |69.Pattern22     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern22.c
 |70.Pattern23     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern23.c
 |71.Pattern24     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern24.c
+|72.Pattern25     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern25.c
+|73.Pattern26     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern26.c
+|74.Pattern27     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern27.c
+|75.Pattern28     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern28.c
+|76.Pattern29     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern29.c
+|77.Pattern30     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern30.c
+|78.Pattern31     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern31.c
+|79.Pattern32     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern32.c
+|80.Pattern33     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern33.c
+|81.Pattern34     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern34.c
+|82.Pattern35     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern35.c
+|83.Pattern36     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern36.c
+|84.Pattern37     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern37.c
+|85.Pattern38     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern38.c
+|86.Pattern39     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern39.c
+|87.Pattern40     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern40.c
+|88.Pattern41     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern41.c
 
