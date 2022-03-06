@@ -100,3 +100,9 @@ C Programming Repository
 |87.Pattern40     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern40.c
 |88.Pattern41     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/Pattern41.c
 
+# Problems On Number
+| Program Name             | Link Of Source Code                                                                   |
+| ----------------- | ------------------------------------------------------------------ |
+|89.SummesionOfArray    |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/SummesionOfArray.c
+|90.SummesionOfEvenArray|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/SummesionOfEvenArray.c
+
