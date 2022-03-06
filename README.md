@@ -105,4 +105,4 @@ C Programming Repository
 | ----------------- | ------------------------------------------------------------------ |
 |89.SummesionOfArray    |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/SummesionOfArray.c
 |90.SummesionOfEvenArray|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/SummesionOfEvenArray.c
-
+|91.SummesionOfOddArray |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/SummesionOfOddArray.c
