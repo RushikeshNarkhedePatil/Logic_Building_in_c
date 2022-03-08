@@ -106,3 +106,9 @@ C Programming Repository
 |89.SummesionOfArray    |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/SummesionOfArray.c
 |90.SummesionOfEvenArray|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/SummesionOfEvenArray.c
 |91.SummesionOfOddArray |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/SummesionOfOddArray.c
+|92.DiifSummesionOfOddEven|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DiifSummesionOfOddEven.c
+|93.DivisibleBy5Array     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DivisibleBy5Array.c
+|94.DivisibleBy5AndEven     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DivisibleBy5AndEven.c
+|95.DivisibleBy5And3     |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DivisibleBy5And3.c
+|96.ReturnFrequencyOfNo  |https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReturnFrequencyOfNo.c
+|97.ReturnFirstOccurence|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReturnFirstOccurence.c
