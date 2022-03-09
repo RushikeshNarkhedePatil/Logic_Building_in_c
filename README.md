@@ -114,3 +114,7 @@ C Programming Repository
 |97.ReturnFirstOccurence|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReturnFirstOccurence.c
 |98.ReturnLastOccurence|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReturnLastOccurence.c
 |99.FrequencyOfEven|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/FrequencyOfEven.c
+|100.FrequencyOf11No|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/FrequencyOf11No.c
+|101.CheckNoPresentInArrayOrNot|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CheckNoPresentInArrayOrNot.c
+|102.DisplayNoBitweenRange|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DisplayNoBitweenRange.c
+|103.IncrementDecrement|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/IncrementDecrement.c
