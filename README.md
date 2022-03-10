@@ -118,3 +118,8 @@ C Programming Repository
 |101.CheckNoPresentInArrayOrNot|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CheckNoPresentInArrayOrNot.c
 |102.DisplayNoBitweenRange|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DisplayNoBitweenRange.c
 |103.IncrementDecrement|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/IncrementDecrement.c
+|104.ReturnLargestNumber|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReturnLargestNumber.c
+|105.ReturnSmallestNumber|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReturnSmallestNumber.c
+|106.DiffSmallestAndLargestNo|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DiffSmallestAndLargestNo.c
+|107.DisplayNoContain3Digit|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DisplayNoContain3Digit.c
+|108.SummessionOfDigit|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/SummessionOfDigit.c
