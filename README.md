@@ -123,3 +123,9 @@ C Programming Repository
 |106.DiffSmallestAndLargestNo|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DiffSmallestAndLargestNo.c
 |107.DisplayNoContain3Digit|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DisplayNoContain3Digit.c
 |108.SummessionOfDigit|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/SummessionOfDigit.c
+
+# Problems on string
+|Program Name|Link |
+|---------|-----------------------|
+|109.CountLengthOfString|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CountLengthOfString.c|
+|110.
