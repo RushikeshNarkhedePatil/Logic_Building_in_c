@@ -128,4 +128,6 @@ C Programming Repository
 |Program Name|Link |
 |---------|-----------------------|
 |109.CountLengthOfString|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CountLengthOfString.c|
-|110.
+|110.ReturnAcharacter|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReturnAcharacter.c|
+|111.FrequencyOfVowel|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/FrequencyOfVowel.c|
+|112.CheckAlphabetOrNot|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CheckAlphabetOrNot.c|
