@@ -131,3 +131,7 @@ C Programming Repository
 |110.ReturnAcharacter|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/ReturnAcharacter.c|
 |111.FrequencyOfVowel|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/FrequencyOfVowel.c|
 |112.CheckAlphabetOrNot|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CheckAlphabetOrNot.c|
+|113.CheckCapitalOrNot|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CheckCapitalOrNot.c|
+|114.CheckDigitOrNot|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CheckDigitOrNot.c|
+|115.CheckSmallCaseOrNot|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/CheckSmallCaseOrNot.c|
+|116.DisplayASCIITable|https://github.com/RushikeshNarkhedePatil/Logic_Building_in_c/blob/main/DisplayASCIITable.c|
